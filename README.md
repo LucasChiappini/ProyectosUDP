@@ -52,8 +52,8 @@ También incluye un **simulador** que envía datos de prueba al servidor.
 ## 🚀 Cómo clonar este repositorio  
 
 ```bash
-git clone https://github.com/TU-USUARIO/udp-tkinter-projects.git
+git clone https://github.com/LucasChiappini/ProyectosUDP.git
 cd udp-tkinter-projects
 ```
 
-Luego, entrar a cada carpeta (`udp-monitor` o `udp-server`) y seguir las instrucciones de su README respectivo.  
+Luego, entrar a cada carpeta y sigue las instrucciones de su README respectivo.  
