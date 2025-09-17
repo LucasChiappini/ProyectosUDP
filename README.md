@@ -12,8 +12,8 @@ Este repositorio contiene **dos proyectos independientes** relacionados con la c
 
 ```
 ProyectosUDP/
-│── udp-monitor/      # Proyecto Monitor UDP con Tkinter
-│── udp-server/       # Proyecto Servidor UDP independiente
+│── Monitor UDP/      # Proyecto Monitor UDP con Tkinter
+│── UDP Server/       # Proyecto Servidor UDP independiente
 │── README.md         # Este archivo (documentación general)
 ```
 
