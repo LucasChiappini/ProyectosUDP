@@ -24,7 +24,7 @@ ProyectosUDP/
 Este proyecto permite **recibir datos por UDP** y mostrarlos en una interfaz gráfica hecha con **Tkinter**.  
 Incluye un **simulador** que envía datos de prueba al monitor.  
 
-📌 Ver documentación completa en [`udp-monitor/README.md`](udp-monitor/README.md).  
+📌 Ver documentación completa en [`udp-monitor/README.md`](udp-monitor/README_UDPMonitor.md).  
 
 ---
 
